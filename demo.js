@@ -6,7 +6,7 @@ var u = new Unserver('http://192.168.1.47:9000');
 function success(){ console.log('success'); }
 function failure(){ console.log('failure'); }
 
-// subscribe to callback to property
+// subscribe a callback to property
 u.watchProperty('t1.p1', function(val){
     console.log('new value: ' + val);
 });
