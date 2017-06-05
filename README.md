@@ -1,6 +1,6 @@
-This is a javascript client library for [Unserver - Modbus Communication Software](https://unserver.xyz).
+**unserverjs** is a javascript client library for [Unserver - Modbus Communication Software](https://unserver.xyz).
 
-Unserver acts as an RESTful HTTP API for underlying Modbus networks and offers I/O functionality similar to OPC servers, including:
+Unserver is a program that acts as an RESTful HTTP API for underlying Modbus networks and offers I/O functionality similar to OPC servers, including:
 
 - polling
 - caching
