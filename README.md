@@ -7,6 +7,7 @@ Unserver is a program that acts as an RESTful HTTP API for underlying Modbus net
 - custom tags
 - data type conversion
 
+[Unserver documentation and getting started](https://unserver.xyz/docs/v/latest/)
 
 ## Installation
 Download [unserver.js](https://raw.githubusercontent.com/UnserverCode/unserverjs/master/unserver.js)
