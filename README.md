@@ -1,3 +1,9 @@
+This is a javascript client library for [Unserver - Modbus Communication Software](https://unserver.xyz).
+
+Unserver acts as an RESTful HTTP API for underlying Modbus networks and offers functionality similar to OPC servers,
+such as polling, caching, tags and data type conversion.
+
+
 
 ## Create a Client Instance
     var client = new Unserver('http://127.0.0.1:9000');
