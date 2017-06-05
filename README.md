@@ -9,7 +9,8 @@ Unserver is a program that acts as an RESTful HTTP API for underlying Modbus net
 
 
 ## Installation
-
+Simply download [unserver.js](https://raw.githubusercontent.com/UnserverCode/unserverjs/master/unserver.js)
+And include it into your web page.
 
 ## Usage
 ### Create a Client Instance
